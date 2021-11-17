@@ -1,7 +1,3 @@
 .fstPage {
-  background-image:url("images.jpeg");
-  /*background-color: lightgray;*/
-  height: 700px;
-  width:100%;
-  background-size:cover;
+  background-image:url('file:///Users/312455/Downloads/images.jpeg')
 }
