@@ -1,6 +1,6 @@
 .showcase-area{
     height: 50vh;
-    background: url("../Images/Header.JPG");
+    background: src("../Images/Header.JPG");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
